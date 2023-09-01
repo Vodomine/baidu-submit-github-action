@@ -1,4 +1,4 @@
-name: Baidu submit - example.com
+name: Baidu submit
 on:
   push:
     branches:
