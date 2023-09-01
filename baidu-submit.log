@@ -1,0 +1,13 @@
+
+===========================================
+Fri Sep 1 07:54:15 UTC 2023
+===========================================
+SITE_URL: https://www.openwayz.com
+SITEMAP_URL: https://www.openwayz.com/sitemap.xml
+Get sitemap https://www.openwayz.com/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1080  100   577  100   503    407    355  0:00:01  0:00:01 --:--:--   763
+{"remain":100,"success":0,"not_same_site":["https://openwayz.com/fragment/template/","https://openwayz.com/2023/08/21/Aircraft-used/","https://openwayz.com/2023/08/25/Clash/","https://openwayz.com/2023/08/28/ClashX/","https://openwayz.com/wiki/template/","https://openwayz.com/about/","https://openwayz.com/archives/","https://openwayz.com/categories/","https://openwayz.com/donate/","https://openwayz.com/fragments/","https://openwayz.com/","https://openwayz.com/links/","https://openwayz.com/mindmap-viewer/","https://openwayz.com/open-source/","https://openwayz.com/wiki/"]}Done!
